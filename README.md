@@ -1,3 +1,3 @@
 # object-detection
 
-This is an example of object detection using YOLO.
+This is an example of object detection using YOLOv8.
